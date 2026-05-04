@@ -1,6 +1,6 @@
 Daily learning
 
-# Modeling an E-commerce Dashboard with Power BI Using DAX Formulas
+# Creating Management Dashboard Decision Making Power BI
 
 Project developed at the Bootcamp Power BI Analyst Training, under the guidance of specialist [Juliana Zanelatto](https://github.com/julianazanelatto/ "Juliana Zanelatto").
 
