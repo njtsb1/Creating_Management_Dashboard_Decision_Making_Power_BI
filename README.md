@@ -27,7 +27,17 @@ Next Steps:
 - The button style is free!
 - The report consists of 3 pages
 
-![Screenshot](./img/.png)
+Page one
+
+![Screenshot](./img/page-one.png)
+
+Page two
+
+![Screenshot](./img/page-two.png)
+
+Page three
+
+![Screenshot](./img/page-three.png)
 
 [LICENSE](/LICENSE)
 
