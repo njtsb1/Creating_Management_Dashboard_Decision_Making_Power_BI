@@ -1,6 +1,6 @@
 Daily learning
 
-# Modeling an E-commerce Dashboard with Power BI Using DAX Formulas
+# Creating Management Dashboard Decision Making Power BI
 
 Project developed at the Bootcamp Power BI Analyst Training, under the guidance of specialist [Juliana Zanelatto](https://github.com/julianazanelatto/ "Juliana Zanelatto").
 
@@ -27,7 +27,17 @@ Next Steps:
 - The button style is free!
 - The report consists of 3 pages
 
-![Screenshot](./img/.png)
+Page one
+
+![Screenshot](./img/page-one.png)
+
+Page two
+
+![Screenshot](./img/page-two.png)
+
+Page three (loading)
+
+![Screenshot](./img/page-three.png)
 
 [LICENSE](/LICENSE)
 
