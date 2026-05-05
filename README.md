@@ -35,7 +35,7 @@ Page two
 
 ![Screenshot](./img/page-two.png)
 
-Page three (loading)
+Page three
 
 ![Screenshot](./img/page-three.png)
 
