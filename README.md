@@ -1,6 +1,6 @@
 Daily learning
 
-# Creating Management Dashboard Decision Making Power BI
+# Creating a Management Dashboard for Decision Making with Power BI
 
 Project developed at the Bootcamp Power BI Analyst Training, under the guidance of specialist [Juliana Zanelatto](https://github.com/julianazanelatto/ "Juliana Zanelatto").
 
